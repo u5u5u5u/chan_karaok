@@ -320,7 +320,7 @@
       "view_all": "View all"
     },
     "collection_template": {
-      "empty": "ざーこ",
+      "empty": "This collection is empty",
       "title": "Collection",
       "use_fewer_filters_html": "Use fewer filters or <a class=\"{{ class }}\" href=\"{{ link }}\">remove all</a>"
     },
